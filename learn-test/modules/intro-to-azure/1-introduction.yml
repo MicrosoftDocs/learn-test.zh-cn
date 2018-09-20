@@ -1,0 +1,8 @@
+### YamlMime:ModuleUnit
+uid: learn-test.intro-to-azure.1-introduction
+title: 介绍
+metadata:
+  description: Begin your cloud journey and align your career to this exciting revolution.
+durationInMinutes: 5
+content: |
+  [!include[](includes/1-introduction.md)]

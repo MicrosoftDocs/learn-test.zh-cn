@@ -1,0 +1,10 @@
+### YamlMime:ModuleUnit
+uid: learn-test.intro-to-azure.4-add-web-server
+title: 添加Web服务器
+metadata:
+  description: Bring your virtual machine to life by configuring a web server and serving some custom content.
+  zone_pivot_groups: platform-cloud
+labId: 45597
+durationInMinutes: 7
+content: |
+  [!include[](includes/4-add-web-server.md)]

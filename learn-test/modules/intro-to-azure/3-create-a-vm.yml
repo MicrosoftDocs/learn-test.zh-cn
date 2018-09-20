@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn-test.intro-to-azure.3-create-a-vm
+title: Create a virtual machine
+metadata:
+  title: Create a virtual machine
+  description: No matter your area of interest, get started with the cloud by creating your first virtual machine.
+  zone_pivot_groups: platform-cloud
+labId: 45106
+durationInMinutes: 10
+content: |
+  [!include[](includes/3-create-a-vm.md)]
