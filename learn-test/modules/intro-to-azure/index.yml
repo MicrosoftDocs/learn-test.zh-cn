@@ -1,0 +1,27 @@
+### YamlMime:Module
+uid: learn-test.intro-to-azure
+title: (LAB TEST) 介绍 Azure
+summary: "通过在云中创建和配置第一个VM来开始使用Azure。"
+iconUrl: https://via.placeholder.com/120x120
+achievement: learn-test.placeholder.badge
+levels:
+- beginner
+roles:
+- developer
+- administrator
+- solution-architect
+products:
+- azure
+abstract: |
+  * Start building the foundational skills you need to change the world or land the job of your dreams. 
+  * Learn what Microsoft Azure is and how it relates to cloud computing.
+  * See how easy it is to launch your first virtual machine, add a web server, and scale up your server when you need more power.
+
+  This was written by a group of people who are passionate about the potential technology has to change people's lives. We hope our passion helps you build the skills you need to be successful with the cloud.
+units:
+- learn-test.intro-to-azure.1-introduction
+- learn-test.intro-to-azure.2-what-is-azure
+- learn-test.intro-to-azure.3-create-a-vm
+- learn-test.intro-to-azure.4-add-web-server
+- learn-test.intro-to-azure.5-scale-up
+- learn-test.intro-to-azure.6-summary

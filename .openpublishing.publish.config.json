@@ -8,6 +8,13 @@
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Achievements": "Toc",
+        "Conceptual": "Content",
+        "Module": "Content",
+        "ModuleUnit": "Content",
+        "ZonePivotGroups": "Toc"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "customized_tasks": {

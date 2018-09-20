@@ -1,0 +1,8 @@
+### YamlMime:Achievements
+achievements:
+- uid: learn-test.placeholder.badge
+  type: badge
+  #TODO: Replace iconURL with real image.
+  iconUrl: https://via.placeholder.com/120x120
+  title: Module Test Badge
+  summary: Module Test Badge Summary

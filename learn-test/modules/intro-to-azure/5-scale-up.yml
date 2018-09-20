@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn-test.intro-to-azure.5-scale-up
+title: Scale up
+metadata:
+  title: Scale up
+  description: Scale up your VM to give it more compute power and memory.
+  zone_pivot_groups: platform-cloud
+labId: 46000
+durationInMinutes: 7
+content: |
+  [!include[](includes/5-scale-up.md)]
