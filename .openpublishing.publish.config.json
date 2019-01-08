@@ -1,29 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "learn-test",
-      "build_source_folder": "learn-test",
-      "build_output_subfolder": "learn-test",
-      "locale": "zh-cn",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Achievements": "Toc",
-        "Conceptual": "Content",
-        "Module": "Content",
-        "ModuleUnit": "Content",
-        "ZonePivotGroups": "Toc"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "customized_tasks": {
-        "docset_postbuild": [
-          "_dependentPackages/CommonPlugins/tools/TripleCrownValidation.ps1"
-        ]
-      }
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
